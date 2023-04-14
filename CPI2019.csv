@@ -1,0 +1,180 @@
+country;iso3;region;cpi_score;cpi_rank;n_sources
+Denmark;DNK;WE/EU;87;1;8
+New Zealand;NZL;AP;87;1;8
+Finland;FIN;WE/EU;86;3;8
+Singapore;SGP;AP;85;4;9
+Sweden;SWE;WE/EU;85;4;8
+Switzerland;CHE;WE/EU;85;4;7
+Norway;NOR;WE/EU;84;7;7
+Netherlands;NLD;WE/EU;82;8;8
+Germany;DEU;WE/EU;80;9;8
+Iceland;ISL;WE/EU;78;11;7
+Australia;AUS;AP;77;12;9
+Austria;AUT;WE/EU;77;12;8
+Canada;CAN;AME;77;12;8
+United Kingdom;GBR;WE/EU;77;12;8
+Hong Kong;HKG;AP;76;16;8
+Belgium;BEL;WE/EU;75;17;7
+Estonia;EST;WE/EU;74;18;10
+Ireland;IRL;WE/EU;74;18;7
+Japan;JPN;AP;73;20;9
+United Arab Emirates;ARE;MENA;71;21;8
+Uruguay;URY;AME;71;21;7
+France;FRA;WE/EU;69;23;8
+United States of America;USA;AME;69;23;9
+Bhutan;BTN;AP;68;25;4
+Chile;CHL;AME;67;26;9
+Seychelles;SYC;SSA;66;27;4
+Taiwan;TWN;AP;65;28;8
+Bahamas;BHS;AME;64;29;3
+Barbados;BRB;AME;62;30;4
+Portugal;PRT;WE/EU;62;30;8
+Qatar;QAT;MENA;62;30;7
+Spain;ESP;WE/EU;62;30;8
+Botswana;BWA;SSA;61;34;7
+Brunei Darussalam;BRN;AP;60;35;3
+Israel;ISR;MENA;60;35;7
+Lithuania;LTU;WE/EU;60;35;9
+Slovenia;SVN;WE/EU;60;35;10
+Korea, South;KOR;AP;59;39;10
+Saint Vincent and the Grenadines;VCT;AME;59;39;3
+Cabo Verde;CPV;SSA;58;41;4
+Cyprus;CYP;WE/EU;58;41;7
+Poland;POL;WE/EU;58;41;10
+Costa Rica;CRI;AME;56;44;7
+Czech Republic;CZE;WE/EU;56;44;10
+Georgia;GEO;ECA;56;44;5
+Latvia;LVA;WE/EU;56;44;9
+Dominica;DMA;AME;55;48;3
+Saint Lucia;LCA;AME;55;48;3
+Malta;MLT;WE/EU;54;50;6
+Grenada;GRD;AME;53;51;3
+Italy;ITA;WE/EU;53;51;8
+Malaysia;MYS;AP;53;51;9
+Rwanda;RWA;SSA;53;51;7
+Saudi Arabia;SAU;MENA;53;51;7
+Mauritius;MUS;SSA;52;56;6
+Namibia;NAM;SSA;52;56;7
+Oman;OMN;MENA;52;56;6
+Slovakia;SVK;WE/EU;50;59;9
+Cuba;CUB;AME;48;60;5
+Greece;GRC;WE/EU;48;60;8
+Jordan;JOR;MENA;48;60;8
+Croatia;HRV;WE/EU;47;63;10
+Sao Tome and Principe;STP;SSA;46;64;4
+Vanuatu;VUT;AP;46;64;3
+Argentina;ARG;AME;45;66;8
+Belarus;BLR;ECA;45;66;7
+Montenegro;MNE;ECA;45;66;5
+Senegal;SEN;SSA;45;66;9
+Hungary;HUN;WE/EU;44;70;10
+Romania;ROU;WE/EU;44;70;10
+South Africa;ZAF;SSA;44;70;8
+Suriname;SUR;AME;44;70;4
+Bulgaria;BGR;WE/EU;43;74;10
+Jamaica;JAM;AME;43;74;7
+Tunisia;TUN;MENA;43;74;7
+Armenia;ARM;ECA;42;77;6
+Bahrain;BHR;MENA;42;77;6
+Solomon Islands;SLB;AP;42;77;3
+Benin;BEN;SSA;41;80;7
+China;CHN;AP;41;80;8
+Ghana;GHA;SSA;41;80;9
+India;IND;AP;41;80;9
+Morocco;MAR;MENA;41;80;7
+Burkina Faso;BFA;SSA;40;85;8
+Guyana;GUY;AME;40;85;5
+Indonesia;IDN;AP;40;85;9
+Kuwait;KWT;MENA;40;85;6
+Lesotho;LSO;SSA;40;85;6
+Trinidad and Tobago;TTO;AME;40;85;7
+Serbia;SRB;ECA;39;91;8
+Turkey;TUR;ECA;39;91;9
+Ecuador;ECU;AME;38;93;7
+Sri Lanka;LKA;AP;38;93;7
+Timor-Leste;TLS;AP;38;93;4
+Colombia;COL;AME;37;96;8
+Ethiopia;ETH;SSA;37;96;9
+Gambia;GMB;SSA;37;96;7
+Tanzania;TZA;SSA;37;96;9
+Vietnam;VNM;AP;37;96;8
+Bosnia and Herzegovina;BIH;ECA;36;101;7
+Kosovo;KSV;ECA;36;101;5
+Panama;PAN;AME;36;101;7
+Peru;PER;AME;36;101;8
+Thailand;THA;AP;36;101;9
+Albania;ALB;ECA;35;106;8
+Algeria;DZA;MENA;35;106;7
+Brazil;BRA;AME;35;106;8
+Cote d'Ivoire;CIV;SSA;35;106;9
+Egypt;EGY;MENA;35;106;7
+North Macedonia;MKD;ECA;35;106;7
+Mongolia;MNG;AP;35;106;9
+El Salvador;SLV;AME;34;113;7
+Kazakhstan;KAZ;ECA;34;113;9
+Nepal;NPL;AP;34;113;6
+Philippines;PHL;AP;34;113;9
+Eswatini;SWZ;SSA;34;113;4
+Zambia;ZMB;SSA;34;113;9
+Sierra Leone;SLE;SSA;33;119;8
+Moldova;MDA;ECA;32;120;9
+Niger;NER;SSA;32;120;7
+Pakistan;PAK;AP;32;120;8
+Bolivia;BOL;AME;31;123;7
+Gabon;GAB;SSA;31;123;6
+Malawi;MWI;SSA;31;123;9
+Azerbaijan;AZE;ECA;30;126;7
+Djibouti;DJI;SSA;30;126;5
+Kyrgyzstan;KGZ;ECA;30;126;7
+Ukraine;UKR;ECA;30;126;9
+Guinea;GIN;SSA;29;130;8
+Laos;LAO;AP;29;130;5
+Maldives;MDV;AP;29;130;3
+Mali;MLI;SSA;29;130;8
+Mexico;MEX;AME;29;130;9
+Myanmar;MMR;AP;29;130;7
+Togo;TGO;SSA;29;130;7
+Dominican Republic;DOM;AME;28;137;7
+Kenya;KEN;SSA;28;137;9
+Lebanon;LBN;MENA;28;137;7
+Liberia;LBR;SSA;28;137;7
+Mauritania;MRT;SSA;28;137;6
+Papua New Guinea;PNG;AP;28;137;6
+Paraguay;PRY;AME;28;137;6
+Russia;RUS;ECA;28;137;9
+Uganda;UGA;SSA;28;137;9
+Angola;AGO;SSA;26;146;7
+Bangladesh;BGD;AP;26;146;8
+Guatemala;GTM;AME;26;146;7
+Honduras;HND;AME;26;146;7
+Iran;IRN;MENA;26;146;7
+Mozambique;MOZ;SSA;26;146;9
+Nigeria;NGA;SSA;26;146;8
+Cameroon;CMR;SSA;25;153;9
+Central African Republic;CAF;SSA;25;153;5
+Comoros;COM;SSA;25;153;4
+Tajikistan;TJK;ECA;25;153;6
+Uzbekistan;UZB;ECA;25;153;7
+Madagascar;MDG;SSA;24;158;8
+Zimbabwe;ZWE;SSA;24;158;9
+Eritrea;ERI;SSA;23;160;5
+Nicaragua;NIC;AME;22;161;7
+Cambodia;KHM;AP;20;162;8
+Chad;TCD;SSA;20;162;6
+Iraq;IRQ;MENA;20;162;5
+Burundi;BDI;SSA;19;165;6
+Congo;COG;SSA;19;165;6
+Turkmenistan;TKM;ECA;19;165;5
+Democratic Republic of the Congo;COD;SSA;18;168;9
+Guinea Bissau;GNB;SSA;18;168;6
+Haiti;HTI;AME;18;168;6
+Libya;LBY;MENA;18;168;5
+Korea, North;PRK;AP;17;172;4
+Afghanistan;AFG;AP;16;173;5
+Equatorial Guinea;GNQ;SSA;16;173;4
+Sudan;SDN;SSA;16;173;7
+Venezuela;VEN;AME;16;173;8
+Yemen;YEM;MENA;15;177;7
+Syria;SYR;MENA;13;178;5
+South Sudan;SSD;SSA;12;179;5
+Somalia;SOM;SSA;9;180;5
